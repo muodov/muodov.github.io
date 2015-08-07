@@ -1,6 +1,7 @@
 # general configuration
 url: https://zok.pw
 baseurl: ''
+domain: zok.pw
 
 # compass configuration
 compass:
