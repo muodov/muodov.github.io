@@ -1,9 +1,10 @@
 ---
 ---
 
-$text-color: #46433A;
-$anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$text-color: #F1EED9;
+$anchor-text-color: #FFB783;
+$background-color: #46433A;
+$logo-border-color: #AFAC98;
 
 body {
 	font-family: 'Vollkorn', serif;
@@ -67,7 +68,7 @@ since it must be aligned with the content */
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	border: 2px solid $background-color;
-	box-shadow: 0 0 0 3px $text-color;
+	box-shadow: 0 0 0 3px $logo-border-color;
 }
 
 /*** author ***/
