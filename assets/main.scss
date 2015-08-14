@@ -45,8 +45,7 @@ a:hover {
 
 /* override the left margin added by font awesome for the main content list,
 since it must be aligned with the content */
-.fa-ul.main-list,
-.fa-ul.secondary-list {
+.fa-ul.main-list, .fa-ul.secondary-list {
 	margin-left: 0;
 }
 
